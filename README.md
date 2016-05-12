@@ -1,5 +1,12 @@
-# paraphrase_identification
-### 语义近似性识别
+# paraphrase Identification
+### 语义同义（近似性）识别
+
+**Paraphrase Identification (PI)**
+
+ - Given two sentences, determine whether theyexpress the same or very similar meaning.
+
+**Semantic Textual Similarity (SS)**
+ - Given two sentences, determine a numerical score between 0 (no relation) and 1 (semanticequivalence) to indicate their semantic similarity.
 
 ## 项目架构：
 - MSRP(Microsoft Research Paraphrase Corpus)
